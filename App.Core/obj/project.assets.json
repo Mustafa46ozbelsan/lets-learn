@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\App.Core\\App.Core.csproj",
+      "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\App.Core\\App.Core.csproj",
       "projectName": "App.Core",
-      "projectPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\App.Core\\App.Core.csproj",
+      "projectPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\App.Core\\App.Core.csproj",
       "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\App.Core\\obj\\",
+      "outputPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

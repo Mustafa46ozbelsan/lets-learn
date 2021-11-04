@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\DockerTemp.WebAPI\\DockerTemp.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\DockerTemp.WebAPI\\DockerTemp.WebAPI.csproj",
       "projectName": "DockerTemp.WebAPI",
-      "projectPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\DockerTemp.WebAPI\\DockerTemp.WebAPI.csproj",
+      "projectPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\DockerTemp.WebAPI\\DockerTemp.WebAPI.csproj",
       "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\DockerTemp.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\DockerTemp.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

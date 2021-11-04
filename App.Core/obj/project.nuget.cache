@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TUfrd4PnCRnVsGsqYHLEfqVEle3UKOUko8MBj38kTCkhoXOcLRaHVXen4MKXoP4/SmFMu8cs7p1BhRyltTVp0g==",
+  "dgSpecHash": "xcqKmAGazZxeO8pwpgt0MqtrAH7ZuxRsP++Y2/1vvE2uKMul8dYRNtZLkvZAxDWSMRq6fbCiEtMqDwJfUe8kMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\App.Core\\App.Core.csproj",
+  "projectFilePath": "C:\\Users\\mustafa\\source\\repos\\DockerTemp\\lets-learn\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
